@@ -1,0 +1,42 @@
+* {
+    padding: 10px 10px 10px 10px;
+    margin: 0px 10px 10px 10px;
+}
+
+#container {
+    align-content: center;
+}
+.hora {
+    
+    border-radius: 5%;
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    background-color:  black;
+    
+}
+.hora_local {
+    
+    border-radius: 5%;
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    background-color:  black;
+    
+}
+
+.time {
+    text-align: center;
+    color: chartreuse;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.time2 {
+    text-align: center;
+    color:chartreuse;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
